@@ -1,0 +1,330 @@
+*{
+    margin: 0;
+}
+.intro{
+    height: 1200px;
+    background-image: url(antique-cafe-bg-01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 150px;
+}
+.header{
+    
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    
+ 
+}
+.header:hover{
+    background-color: black;
+    opacity: 0.7;
+}
+#d1{
+    padding-right: 300;
+    color: bisque;
+   text-decoration-line: none;
+
+}
+/* #t1{
+    float: right;
+    color: white;
+    padding-right: 40px;
+    padding-top: 30px;
+
+}
+#t2{
+    float: right;
+    color: white;
+    padding-right: 30px;
+    padding-top: 30px;
+
+}
+#t3{
+    float: left;
+    color: white;
+    padding-right: 35px;
+    padding-top: 30px;
+
+}
+#t4{
+    float: left;
+    color: white;
+    padding-right: 30px;
+    padding-top: 30px;
+
+} */
+.d1{
+    float: right;
+    color: aliceblue;
+    padding-right: 90px;
+    padding-top: 20px;
+    
+}
+.head2{
+    height: 150px;
+    width: 450px;
+       
+       margin-left: 550px;
+       background-color: black;
+       opacity: 0.8;
+}
+.d2{
+    color: aliceblue;
+    float: center;
+    padding: 35PX 80PX;
+}
+.d2 h1{
+    
+    padding-left: 25px;
+}
+.d2 h2{
+    
+    padding-left: 10px;
+}
+.head3{
+    background-color: black;
+    width:450px;
+    height:55%;
+    opacity: 0.7;
+    margin-top:50px ;
+    margin-left:550px;
+}
+.d3{
+    color: aliceblue;
+    padding: 40px;
+    font-size: 15px; 
+}
+.head3 p{
+    color: white;
+    padding-top: 20px;
+    font-size: 20px;
+    padding-left: 30px;
+}
+.head3 span{
+    font-size: 25px;
+    text-decoration: none;
+}
+ #i1{
+    text-decoration: none;
+}
+.head4{
+    background-color: black;
+    width: 450px;
+    height: 80px;
+    opacity: 0.7;
+    margin-top: 50px;
+    margin-left: 550PX;
+
+}
+.d4{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    
+    align-content: center;
+    padding-top: 35px;
+    padding-left: 100PX;
+    font-size: 25PX;
+
+}
+.img2{
+    margin: 0px;
+        height: 1400px;
+    
+        background-image: url(antique-cafe-bg-02.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+#box1{ border-radius: 50px;
+    border-style: groove ;
+    border: 10px;
+   width: 400px;
+   height: 50px;
+    background-color: aliceblue;
+    padding: 50px 50px;
+
+}
+.menu1{ 
+    padding-top: 50px;
+    padding-left: 500px;
+
+}
+#b1{ color: black;
+    font-size: 35px;
+}
+.menu2{opacity: 0.9;
+    background-color:grey;
+    border-radius: 25px;
+    width: 400px;
+    height: 900px;
+    margin-left: 150px;
+    margin-top: 80px;
+    padding: 50px;
+}
+.img{
+    float: right;
+    margin-left: 10px;
+    margin-top: 30px;
+
+}
+.para{
+
+    float: left;
+    margin-left: 50px;
+    margin-top: 40px;
+    height: 100px;
+    background-color: aqua; 
+}
+#color{
+    color:yellow;
+    font-size: 25px;
+}
+#sizes{
+    font-size: 20px;
+    color:black;
+
+}
+.m1{
+     background-color:maroon; 
+    height: 225px;
+}
+.menu3{
+    opacity: 0.9;
+    float:right;
+    background-color:gray;
+    border-radius: 25px;
+    width: 400px;
+    height: 900px;
+    margin-right: 150px;
+    margin-top: -1000px;
+    padding: 50px;
+}
+
+.page3{
+    margin: 0px;
+        height: 1100px;
+    
+        background-image: url(antique-cafe-bg-03.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+.box1{
+    width: 550px;
+    height: 450px;
+    background-color:aliceblue;
+    border-radius: 5%;
+
+}
+.g1{
+    float: right;
+    padding-right: 150px;
+    padding-top: 100px;
+}
+.txt5{
+    font-size: 50px;
+    font-family: Arial Rounded MT Bold; 
+    padding-top: 25px;
+    padding-left: 30px;
+}
+#p1{
+    font-size: 25px;
+    padding: 25px;
+}
+.con1{
+     width: 200px; 
+    height: 81px; 
+    background-color: greenyellow;
+    border-radius: 25px;
+    padding: 20px;
+
+    
+}
+.contact{
+    float: right;
+    margin-right: -150px;
+     padding-top: 600px;
+
+} 
+#g2{
+    font-size: 30px;
+    color: aliceblue;
+  scroll-padding: 25px; 
+}
+.l1{
+    text-decoration-line: none;
+    color: burlywood;
+}
+.l1:hover{
+ color: aliceblue;
+ text-size:50px;
+}
+.part4
+{
+    background-image: url(antique-cafe-bg-04.jpg);
+    height: 1100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box4{
+    width: 500px;
+    height: 600px;
+    background-color:rgb(13, 13, 13);
+    border-radius: 5%;
+    opacity: 0.7;
+}
+.g2{
+    float: right;
+    padding-right: 150px;
+    padding-top: 100px;
+}
+
+
+.box5{
+    width: 500px;
+    height: 600px;
+    background-color:burlywood;
+    border-radius: 5%;
+    opacity: 0.7;
+}
+.g3{
+    float: left;
+    padding-left: 150px;
+    padding-top: 100px;
+}
+.us{
+    font-size: 45px;
+    color: darkslateblue;
+    text-align: center;
+    padding-top: 25px;
+}
+.p{
+    padding: 35px;
+    color: aliceblue;
+    text-align: left;
+    
+}
+#parth1{
+    margin-left: 20px;
+    margin-top: 30px;
+    padding:30px;
+    background:transparent;
+    font-size: 30px;
+    color:black;
+    border: 4px;
+}
+#parth1:hover{
+    box-shadow: 4px 5px 100px rgb(64, 72, 230);
+    
+}
+#par1{
+    margin-left: 20px;
+    margin-top: 30px;
+    padding:30px;
+    background:transparent;
+    font-size: 30px;
+    color:black;
+    border: 4px;
+}
+#par1:hover{box-shadow: 4px 5px 100px rgb(230, 64, 119);}
+
+
